@@ -48,15 +48,6 @@ This will install the latest version of the CLI tool to your `$GOPATH/bin` direc
 
 Download the pre-built binary for your platform from the [Releases](https://github.com/shotgundd/hetznerdns/releases) page and place it somewhere in your PATH.
 
-### Homebrew (macOS and Linux)
-
-If you use Homebrew, you can install the CLI tool with:
-
-```
-brew tap shotgundd/tap
-brew install hetznerdns
-```
-
 ## Usage
 
 ### Configuration
